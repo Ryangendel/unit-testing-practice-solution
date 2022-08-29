@@ -1,5 +1,6 @@
 // This is an example of the greet() function covering requirements layed out in the Unit Testing Practice activity
-
+console.log("hellllloooo")
+//here are some notes 
 function greet(name) {
   if (name === null || name === undefined) return 'Hello there!';
   if (typeof name === typeof []) {
